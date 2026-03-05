@@ -1,7 +1,9 @@
 # Server Performance Stats Script
 
 This project is a simple Linux bash script that analyzes server performance statistics.
-https://github.com/tenidaniels/server-performance-stats/tree/main
+
+## Project URL
+https://github.com/tenidaniels/server-performance-stats
 
 ## Features
 
