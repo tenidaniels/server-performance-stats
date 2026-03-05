@@ -3,7 +3,7 @@
 This project is a simple Linux bash script that analyzes server performance statistics.
 
 ## Project URL
-https://github.com/tenidaniels/server-performance-stats
+https://github.com/tenidaniels/server-performance-stats/tree/main
 
 ## Features
 
