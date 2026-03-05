@@ -44,3 +44,13 @@ sudo chmod +x server-stats.sh
 Run the script:
 
 ./server-stats.sh
+
+
+
+
+
+
+
+
+
+https://roadmap.sh/projects/server-stats/solutions?u=67bec93f1a68a74c102964bc
